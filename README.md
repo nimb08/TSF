@@ -1,6 +1,7 @@
-# TSF-task-1
+# The Sparks Foundation
 
 
 Business analytics & Data Science
 
-Prediction using Unsupervised Learning
+1. Prediction using Supervised Learning
+2. Prediction using Unsupervised Learning
